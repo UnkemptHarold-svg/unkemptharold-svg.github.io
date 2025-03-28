@@ -18,3 +18,6 @@ Research Interest
 
 Recently, I am also actively expanding the development of UAV simulation tools (such as AirSim from Microsoft) and the latest technologies that can be applied to drones (such as AI-agent).
 
+Award
+=====
+JST-BOOST:Next -Generation AI Human Resource Development Program (国立研究開発法人科学技術振興機構-次世代AI人材育成プログラム(BOOST))
