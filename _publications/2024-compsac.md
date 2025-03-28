@@ -1,6 +1,7 @@
 ---
 title: "Performability Modeling and Analysis for Real-Time Object Detection on UAV Systems"
 collection: publications
+date: 2024
 category: conferences
 citation: '*Zhang Qingyang*, Machida Fumio, Andrade Ermeson. Performability Modeling and Analysis for Real-Time Object Detection on UAV Systems[C]//2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC). IEEE, 2024: 1398-1405.'
 ---
