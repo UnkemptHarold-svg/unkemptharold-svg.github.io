@@ -7,5 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 1st year doctor student from University of Tsukuba.
-
+I'm a 1st year doctor student from the Laboratory for System Dependability at the University of Tsukuba, Japan. My supervisor is [Prof. Fumio Machida](https://www.sd.cs.tsukuba.ac.jp/machida.html).
