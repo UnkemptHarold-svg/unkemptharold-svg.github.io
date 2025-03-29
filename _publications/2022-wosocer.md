@@ -2,6 +2,7 @@
 title: "Performance bottleneck analysis of drone computation offloading to a shared fog node"
 collection: publications
 category: conferences
+permalink: /publication/2022-wosocer.md
 date: 2022-8-23
 venue: 'ISSRE-WoSoCer'
 # venue: 'GitHub Journal of Bugs'
